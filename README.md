@@ -31,8 +31,8 @@ Mobile version:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/coming-soon-page-with-sass-grid-flex-and-a-little-javascript-lOZRV4LMc)
+- Live Site URL: [Live site](https://base-apparel-coming-soon-challenge.netlify.app/)
 
 ## My process
 
